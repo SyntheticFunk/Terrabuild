@@ -1,0 +1,14 @@
+"Terrabuild"
+{
+	"base"		"sandbox"
+	"title"		"Terrabuild"
+	"maps"		"gm_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"settings"
+	{
+
+	}
+
+}
